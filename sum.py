@@ -1,4 +1,5 @@
 a=4
 b=3
 c=100
-print(a+b+c)
+d=1000
+print(a+b+c+d)
