@@ -1,4 +1,4 @@
 a=4
 b=3
-
-a+b
+c=100
+print(a+b+c)
